@@ -22,3 +22,13 @@
 construtor com todos os parametros e construtor sem nenhum parametro com lombok.
 ( logradouro, bairro, cep, cidade, uf, numero, complemento )
 - Coloque todos os atributos privados e do tipo String
+
+# AULA 02
+Verbos/métodos HTTP
+GET - Get é quando você pede algo de retorno.
+POST - É quando você passa informações
+PUT
+DELETE
+
+Resquest { REQUISIÇÃO } -> É  o que você passa esperando o retorno.
+Response { RESPOSTA } -> É a resposta que você recebe.
